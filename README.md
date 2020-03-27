@@ -1,6 +1,7 @@
 # Ineuron-deep-learning-assignment
 
 Assignment 1. Create CNN Model with deployment pivotal web services
+
 name:              fruitclassifier
 requested state:   started
 routes:            fruitclassifier-bold-lemur-al.cfapps.io
